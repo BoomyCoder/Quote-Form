@@ -48,3 +48,9 @@ body {
     
   }
   
+ textarea {
+    height: 100px;
+    width: 200px;
+    border-radius: 15px;
+  }
+  
