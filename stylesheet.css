@@ -1,6 +1,9 @@
 body {
     background-color: rgb(37, 37, 37);
-    position:relative
+    position:relative; 
+    margin: auto;
+    
+    
 }
 
 .card {
@@ -9,7 +12,8 @@ body {
     border-radius: 20px; /* 20px rounded corners */
     width: 350px;
     background-color: black;
-    position: relative; left: 160px;
+    margin: auto; 
+   
   }
   
   /* Add rounded corners to the top left and the top right corner of the image */
@@ -23,7 +27,10 @@ body {
 
   .title {
     color: white;
-    position: relative; left: 180px;
+    position: relative; 
+    text-align: center;
+    
+    
   }
 
   .container {
@@ -45,13 +52,17 @@ body {
 
   .shop-name {
     color: white;
-    position: relative; left: 195px;
+    position: relative; 
+    text-align: center;
+
+    
+   
     
   }
+
   
- textarea {
+  textarea {
     height: 100px;
     width: 200px;
     border-radius: 15px;
   }
-  
