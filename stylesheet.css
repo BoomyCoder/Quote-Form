@@ -163,9 +163,13 @@ textarea {
 
 /* Notes */
 .note {
-  font-size: 0.85rem;
-  color: #888;
-  margin: 10px 0;
+  font-size: 0.9rem;
+  color: #f0f0f0;
+  background-color: #2c2c2c;
+  border-left: 4px solid #4f9cf9;
+  padding: 10px 12px;
+  margin: 12px 0;
+  border-radius: 4px;
 }
 
 /* Submit button */
